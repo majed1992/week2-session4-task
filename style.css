@@ -1,0 +1,102 @@
+.mock1 {
+    height:20px;
+    width: 90%;
+    border: solid black;
+
+}
+.secondbox {
+    
+        
+        width: 90%;
+        border: solid black;
+        border-style: none solid solid;
+        height: 400px;
+
+    
+}
+.firsttwoboxes {
+    display: flex;
+    flex-wrap: wrap;
+}
+.secondtwoboxes {
+    display: flex;
+    flex-wrap: wrap;
+}
+.thirdtwoboxes {
+    display: flex;
+    flex-wrap: wrap;
+}
+#firstbox{
+    height: 70px;
+    width: 20%;
+    border: solid;
+    position: relative;
+    top: 10px;
+    left: 15px;
+    background-color: violet;
+
+}
+#firstbox2{
+    height: 70px;
+    width: 20%;
+    border: solid;
+    position: relative;
+    top: 30px;
+    left: 15px;
+    background-color: violet;
+
+}
+
+#secondbox{
+    height: 70px;
+    width:65%;
+    border: solid;
+    position: relative;
+    top: 10px;
+    left: 20px;
+    background-color: skyblue;
+    margin-left: 10px;
+    
+}
+#secondbox2{
+    height: 70px;
+    width:65%;
+    border: solid;
+    position: relative;
+    top: 30px;
+    left: 20px;
+    background-color: skyblue;
+    margin-left: 10px;
+    
+}
+#firstbox3{
+    height: 70px;
+    width: 20%;
+    border: solid;
+    position: relative;
+    top: 50px;
+    left: 15px;
+    background-color: violet;
+
+}
+
+#secondbox3{
+    height: 70px;
+    width:65%;
+    border: solid;
+    position: relative;
+    top: 50px;
+    left: 20px;
+    background-color: skyblue;
+    margin-left: 10px;
+}
+.bottombox{
+
+    height: 70px;
+    width: 90%;
+    border: solid;
+    position: relative;
+    top: 70px;
+    margin-left: 15px;
+    background-color: yellow;
+}
